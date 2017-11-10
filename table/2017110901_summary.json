@@ -1,0 +1,277 @@
+[
+ {
+  "testcase": "candycrush", 
+  "jiangqin-pcurl": "result/candycrush/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "xiuxiu", 
+  "jiangqin-pcurl": "result/xiuxiu/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "outlook", 
+  "jiangqin-pcurl": "result/outlook/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "wandoujia", 
+  "jiangqin-pcurl": "result/wandoujia/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "music", 
+  "jiangqin-pcurl": "result/music/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "fotoFinder", 
+  "jiangqin-pcurl": "result/fotoFinder/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "email", 
+  "jiangqin-pcurl": "result/email/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "czfilemanager", 
+  "jiangqin-pcurl": "result/czfilemanager/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "wechat", 
+  "jiangqin-pcurl": "result/wechat/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "kindle", 
+  "jiangqin-pcurl": "result/kindle/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "quickpicker", 
+  "jiangqin-pcurl": "result/quickpicker/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "Skype", 
+  "jiangqin-pcurl": "result/Skype/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "fennec", 
+  "jiangqin-pcurl": "result/fennec/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "PCMark", 
+  "jiangqin-pcurl": "result/PCMark/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "wpspro", 
+  "jiangqin-pcurl": "result/wpspro/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "note", 
+  "jiangqin-pcurl": "result/note/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "gallery", 
+  "jiangqin-pcurl": "result/gallery/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "baiduyun", 
+  "jiangqin-pcurl": "result/baiduyun/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "IThome", 
+  "jiangqin-pcurl": "result/IThome/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "terminal", 
+  "jiangqin-pcurl": "result/terminal/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "wps", 
+  "jiangqin-pcurl": "result/wps/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "pod", 
+  "jiangqin-pcurl": "result/pod/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "tairui", 
+  "jiangqin-pcurl": "result/tairui/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "angrybird", 
+  "jiangqin-pcurl": "result/angrybird/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "xuetang", 
+  "jiangqin-pcurl": "result/xuetang/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "appStore", 
+  "jiangqin-pcurl": "result/appStore/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "cntvhd", 
+  "jiangqin-pcurl": "result/cntvhd/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "YY", 
+  "jiangqin-pcurl": "result/YY/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "setting", 
+  "jiangqin-pcurl": "result/setting/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "acrobat", 
+  "jiangqin-pcurl": "result/acrobat/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "android3dmark", 
+  "jiangqin-pcurl": "result/android3dmark/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "Yamaxun", 
+  "jiangqin-pcurl": "result/Yamaxun/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "GFXBenchmark", 
+  "jiangqin-pcurl": "result/GFXBenchmark/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "autocad", 
+  "jiangqin-pcurl": "result/autocad/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "seafile", 
+  "jiangqin-pcurl": "result/seafile/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "OSmonitor", 
+  "jiangqin-pcurl": "result/OSmonitor/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "yx_2048", 
+  "jiangqin-pcurl": "result/yx_2048/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "greenify", 
+  "jiangqin-pcurl": "result/greenify/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "date", 
+  "jiangqin-pcurl": "result/date/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "calc", 
+  "jiangqin-pcurl": "result/calc/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "system_ui", 
+  "jiangqin-pcurl": "result/system_ui/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "VLC", 
+  "jiangqin-pcurl": "result/VLC/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "gugeinput", 
+  "jiangqin-pcurl": "result/gugeinput/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "clock", 
+  "jiangqin-pcurl": "result/clock/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "fm", 
+  "jiangqin-pcurl": "result/fm/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "Taiwan", 
+  "jiangqin-pcurl": "result/Taiwan/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "editor920", 
+  "jiangqin-pcurl": "result/editor920/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "testcase": "taobao", 
+  "jiangqin-pcurl": "result/taobao/1x/jiangqin-pc/ubuntu/defconfig/gcc-5/2017110901/", 
+  "jiangqin-pc": "1.0"
+ }, 
+ {
+  "failed": 0, 
+  "sum": 48, 
+  "tbox": "qemu1", 
+  "untest": 48, 
+  "pass": 0
+ }, 
+ {
+  "failed": 0, 
+  "sum": 48, 
+  "tbox": "pc1-Z8302", 
+  "untest": 48, 
+  "pass": 0
+ }, 
+ {
+  "failed": 0, 
+  "sum": 48, 
+  "tbox": "pc2-Z8000", 
+  "untest": 48, 
+  "pass": 0
+ }, 
+ {
+  "failed": 0, 
+  "sum": 48, 
+  "tbox": "laptop1-T43U", 
+  "untest": 48, 
+  "pass": 0
+ }, 
+ {
+  "failed": 0, 
+  "sum": 48, 
+  "tbox": "laptop2-T45", 
+  "untest": 48, 
+  "pass": 0
+ }
+]

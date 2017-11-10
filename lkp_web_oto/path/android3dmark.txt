@@ -1,0 +1,3 @@
+/var/www/html/result/android3dmark/1x/pc/ubuntu/defconfig/gcc-6/20171031/avg.json
+/var/www/html/result/android3dmark/1x/pc/ubuntu/defconfig/gcc-6/20170915/avg.json
+/var/www/html/result/android3dmark/1x/pc/ubuntu/defconfig/gcc-6/20171027/avg.json
