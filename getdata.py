@@ -22,7 +22,13 @@ def getresult(fn, r):
     with open (fn) as resfile:
         for line in resfile:
             if('result' in line):
-		r=geturl(line,': ',',')
+		rstart=line.index(': ')
+                if(',' in line):
+			estart=line.index(',')
+		else:
+			estart=line.index('0')
+			estart += 1
+		r=line[rstart+2:estart]
     return r
 
 def getdirlist(path,dirlist):
@@ -56,7 +62,7 @@ def hasresult(fn):
     with open (fn) as resfile:
         for line in resfile:
             if('result' in line):
-		return 1
+                return 1
 
 ##table_file='table/'+sys.argv[1]+'_summary.json'
 ##if(os.path.exists(table_file) and os.path.getsize(table_file) > 20000):
@@ -68,7 +74,7 @@ r = ''
 data = []
 
 list1=['qemu1']
-list2=['pc']
+list2=['pc1-Z8302']
 list3=['pc2-Z8000']
 list4=['laptop1-T43U']
 list5=['laptop2-T45']
@@ -87,7 +93,7 @@ for name in dirlist:
             dic[pn[7]] = getresult(fn,r)
             dic[pn[7]+'url']=geturl(fn,'/var/www/html/','testResult.json')
         if(sys.argv[1] in fn and 'avg.json' in fn):
-	    if(hasresult(fn)):
+            if(hasresult(fn)):
                 pn = fn.split('/')
                 dic['testcase'] = name
                 dic[pn[7]] = getresult(fn,r)
@@ -96,7 +102,7 @@ for name in dirlist:
         dic.update(dic)
         data.append(dic)
         list1.append(dic.get('qemu1'))
-        list2.append(dic.get('pc'))
+        list2.append(dic.get('pc1-Z8302'))
         list3.append(dic.get('pc2-Z8000'))
         list4.append(dic.get('laptop1-T43U'))
         list5.append(dic.get('laptop2-T45'))
